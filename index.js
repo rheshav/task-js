@@ -1,0 +1,3 @@
+function Kosong() {
+  return null;
+}
